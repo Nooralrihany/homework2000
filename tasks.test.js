@@ -28,6 +28,7 @@ describe('Task 2', () => {
     expect(consoleSpy).toHaveBeenCalledWith(5);
   });
 });
+// heelpc:\Users\user\OneDrive\Desktop\SCT-Practise\hw7\week4basicjs-Nooralrihany\package.json c:\Users\user\OneDrive\Desktop\SCT-Practise\hw7\week4basicjs-Nooralrihany\package-lock.json c:\Users\user\OneDrive\Desktop\SCT-Practise\hw7\week4basicjs-Nooralrihany\README.md c:\Users\user\OneDrive\Desktop\SCT-Practise\hw7\week4basicjs-Nooralrihany\tasks.js c:\Users\user\OneDrive\Desktop\SCT-Practise\hw7\week4basicjs-Nooralrihany\tasks.test.js c:\Users\user\OneDrive\Desktop\SCT-Practise\hw7\week4basicjs-Nooralrihany\.git
 
 describe('Task 3', () => {
   test('Print even numbers with for loop', () => {
